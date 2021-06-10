@@ -1,0 +1,46 @@
+# Boxname 🧭
+Names | Details
+--------|-----
+Source | tryhackme
+Level     | easy
+Os |linux
+
+**Notes :**
+
+
+
+
+## Gaining Access 😉
+
+- fuel cms 1.4 expoit
+	- python exploit
+- php reverse shell & netcat listen
+	- broke jail shell 
+	- `/bin/bash -i`
+
+
+
+## Maintaining Access 🥷
+- config file of fuel cms
+	- cat /var/www/html/fuel/application/config/database.php
+	- `python -c 'import pty; pty.spawn("/bin/sh")'`
+
+
+## Important commands 🔥
+- `python -c 'import pty; pty.spawn("/bin/sh")'`
+
+## Post Exploitation ✴️
+- User flag : /home/www-data
+- Root flag : /root/root
+## Tips 💡
+- always check database files
+
+
+--------------------------------
+**By Nibras Muhammed** 🤓🖥️
+
+
+
+
+
+
