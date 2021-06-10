@@ -1,4 +1,4 @@
-# Root me `ris:Computer`
+# Root me 🧭
 Names | Details
 --------|-----
 Source | tryhackme
@@ -10,26 +10,26 @@ Os | linux
 
 
 
-## Gaining Access `ris:User`
+## Gaining Access 😉
 
 - PHP reverse shell uploaded as .php5 extesion
 - netcat to listen on port
 
 
 
-## Maintaining Access `ris:Admin`
+## Maintaining Access 🥷
 - SUID Permission
 	- /usr/bin/python
 
 
-## Important commands `ris:Command`
+## Important commands 🔥
 - find / -perm /4000
 	- `/usr/bin/python -c 'import os; os.setuid(0); os.system("/bin/sh")'`
 
-## Post Exploitation `ris:CheckboxMultiple`
+## Post Exploitation ✴️
 - User flag : /home/user
 - Root flag : /root/root
-## Tips `ris:EmotionHappy`
+## Tips 💡
 - it's possible to bypass .php Extesions filter by renaming it as .php5
 - used python script for privilege escalation 
 

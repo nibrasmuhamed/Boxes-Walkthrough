@@ -1,4 +1,4 @@
-# Boxname `ris:Computer`
+# Boxname 🧭
 Names | Details
 --------|-----
 Source | 
@@ -10,23 +10,23 @@ Os |
 
 
 
-## Gaining Access `ris:User`
+## Gaining Access 😉
 
 - 
 
 
 
-## Maintaining Access `ris:Admin`
+## Maintaining Access 🥷
 - 
 
 
-## Important commands `ris:Command`
+## Important commands 🔥
 -
 
-## Post Exploitation `ris:CheckboxMultiple`
+## Post Exploitation ✴️
 - User flag : /home/user
 - Root flag : /root/root
-## Tips `ris:EmotionHappy`
+## Tips 💡
 - something
 
 
