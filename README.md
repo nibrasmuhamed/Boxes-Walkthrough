@@ -1,4 +1,4 @@
-# Boxes-Walkthrough
+# CTF-Walkthrough
 This repository contains hints to exploit and capture flag of  CTF machines from various platforms. 
 this isn't a detailed walk-through. 
 one box per day
