@@ -4,8 +4,13 @@ this isn't a detailed walk-through.
 one box per day
 
 
-I'll share tips and tricks from my experience 
+I'll share ideas from my experience 
 
 
-You can checkout my gists here: gist.github.com/nibrasmuhamed.
-I'll info-sec, bounty program, linux, python and development based tips there
+You can checkout my gists here: [gist.github/nibrasmuhamed](gist.github.com/nibrasmuhamed)
+Here is my Linkedin [](https://www.linkedin.com/in/nibras-muhammed-144721199)
+I'll share info-sec, bounty program, linux, python and sec-tool development based tips there
+
+```python
+print "hello world" 
+```
