@@ -1,4 +1,4 @@
-# Boxname 🧭
+# {{title}} 🧭
 Names | Details
 --------|-----
 Source | 
