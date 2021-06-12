@@ -21,7 +21,7 @@ Os |
 
 
 ## Important commands 🔥
--
+- 
 
 ## Post Exploitation ✴️
 - User flag : /home/user
