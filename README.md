@@ -8,9 +8,6 @@ I'll share ideas from my experience
 
 
 You can checkout my gists here: [gist.github/nibrasmuhamed](gist.github.com/nibrasmuhamed)
-Here is my Linkedin [](https://www.linkedin.com/in/nibras-muhammed-144721199)
+Here is my Linkedin [Linkedin](https://www.linkedin.com/in/nibras-muhammed-144721199)
 I'll share info-sec, bounty program, linux, python and sec-tool development based tips there
 
-```python
-print "hello world" 
-```
