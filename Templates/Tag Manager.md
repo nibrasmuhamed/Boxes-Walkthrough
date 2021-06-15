@@ -14,6 +14,7 @@ organising notes with tags
 !#boxtype/easy
 !#boxtype/medium
 !#boxtype/hard
+!#boxtype/windows
 
 **Category**
 !#categoty/hashCracking
@@ -42,5 +43,6 @@ organising notes with tags
 !#other/web
 !#other/richResource
 !#other/GAtactics
+
 
 
