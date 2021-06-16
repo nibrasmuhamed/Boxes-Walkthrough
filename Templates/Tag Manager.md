@@ -43,6 +43,7 @@ organising notes with tags
 !#other/web
 !#other/richResource
 !#other/GAtactics
-
+!#other/tool
+!#other/richInfo
 
 
