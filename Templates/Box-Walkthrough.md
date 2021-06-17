@@ -3,7 +3,7 @@ Names | Details
 --------|-----
 Source | 
 Level | 
-Os |
+Os | 
 
 **Notes :**
 
@@ -21,7 +21,7 @@ Os |
 
 
 ## Important commands 🔥
-- 
+1. 
 
 ## Post Exploitation ✴️
 - User flag : /home/user
