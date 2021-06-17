@@ -3,7 +3,7 @@ organising notes with tags
 
 ### Head Tags
 !#boxtype
-!#categoty
+!#category
 !#privilegeEscalation
 !#programmingLang
 !#other
@@ -17,14 +17,14 @@ organising notes with tags
 !#boxtype/windows
 
 **Category**
-!#categoty/hashCracking
-!#categoty/Cryptography
-!#categoty/enumBased
-!#categoty/osint
-!#categoty/stegnography
-!#categoty/spectogram
-!#categoty/bruteforce
-!#categoty/addtools
+!#category/hashCracking
+!#category/Cryptography
+!#category/enumBased
+!#category/osint
+!#category/stegnography
+!#category/spectogram
+!#category/bruteforce
+!#category/addtools
 
 **Privilege Escalation**
 !#privilegeEscalation/easy
