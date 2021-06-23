@@ -47,3 +47,4 @@ organising notes with tags
 !#other/richInfo
 !#other/flagDir
 
+
