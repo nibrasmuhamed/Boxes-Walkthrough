@@ -45,5 +45,5 @@ organising notes with tags
 !#other/GAtactics
 !#other/tool
 !#other/richInfo
-
+!#other/flagDir
 
