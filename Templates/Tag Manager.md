@@ -8,6 +8,7 @@ organising notes with tags
 !#programmingLang
 !#other
 
+
 ### Sub tags 
 
 **Box**
@@ -25,6 +26,7 @@ organising notes with tags
 !#category/spectogram
 !#category/bruteforce
 !#category/addtools
+!#category/keytohash
 
 **Privilege Escalation**
 !#privilegeEscalation/easy
