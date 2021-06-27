@@ -48,5 +48,7 @@ organising notes with tags
 !#other/tool
 !#other/richInfo
 !#other/flagDir
+!#other/rabbithole
+
 
 
